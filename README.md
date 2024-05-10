@@ -1,6 +1,6 @@
 <h1 align="left">👋Hi,I'm Ramaaa!</h1>
 <p align="left">this my journey and learning in tech<br>
-  always support Ramaa okay?</p>
+  always support Ramaa okay? dont forgot follow instagram</p>
 
 
 ## 🌐 Socials:
